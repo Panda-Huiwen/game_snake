@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetM2_2 Pin=su-03t-10
+Removed Pin From Net: NetName=NetM2_1 Pin=su-03t-11
+Removed Pin From Net: NetName=GND Pin=su-03t-12
+Removed Pin From Net: NetName=up Pin=su-03t-15
+Removed Pin From Net: NetName=down Pin=su-03t-16
+Removed Pin From Net: NetName=left Pin=su-03t-17
+Removed Pin From Net: NetName=right Pin=su-03t-18
+Added Pin To Net: NetName=right Pin=su-03t-10
+Added Pin To Net: NetName=left Pin=su-03t-11
+Added Pin To Net: NetName=down Pin=su-03t-12
+Added Pin To Net: NetName=up Pin=su-03t-13
+Added Pin To Net: NetName=GND Pin=su-03t-16
+Added Pin To Net: NetName=NetM2_1 Pin=su-03t-17
+Added Pin To Net: NetName=NetM2_2 Pin=su-03t-18

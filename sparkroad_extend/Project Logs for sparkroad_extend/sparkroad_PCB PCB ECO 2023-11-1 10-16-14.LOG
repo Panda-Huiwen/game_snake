@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=B2 Pin=1-23
+Added Pin To Net: NetName=B2 Pin=su-03t-7
+Added Net: Name=B2
+Added Pin To Net: NetName=B5 Pin=1-19
+Added Pin To Net: NetName=B5 Pin=su-03t-5
+Added Net: Name=B5
+Added Pin To Net: NetName=B6 Pin=1-21
+Added Pin To Net: NetName=B6 Pin=su-03t-6
+Added Net: Name=B6
+Added Room: Name=sparkroad_sheet1

@@ -1,0 +1,53 @@
+Added Component: Designator=1(HDR2X20)
+Added Component: Designator=H1(HDR1X3)
+Added Component: Designator=M1(HDR1X2)
+Added Component: Designator=M2(HDR1X2)
+Added Component: Designator=su-03t(SU-03T)
+Added Pin To Net: NetName=3.3V Pin=1-1
+Added Pin To Net: NetName=3.3V Pin=H1-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=down Pin=1-29
+Added Pin To Net: NetName=down Pin=su-03t-16
+Added Net: Name=down
+Added Pin To Net: NetName=GND Pin=1-6
+Added Pin To Net: NetName=GND Pin=1-9
+Added Pin To Net: NetName=GND Pin=1-14
+Added Pin To Net: NetName=GND Pin=1-20
+Added Pin To Net: NetName=GND Pin=1-25
+Added Pin To Net: NetName=GND Pin=1-30
+Added Pin To Net: NetName=GND Pin=1-34
+Added Pin To Net: NetName=GND Pin=1-39
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=su-03t-2
+Added Pin To Net: NetName=GND Pin=su-03t-12
+Added Net: Name=GND
+Added Pin To Net: NetName=hongwai Pin=1-7
+Added Pin To Net: NetName=hongwai Pin=H1-3
+Added Net: Name=hongwai
+Added Pin To Net: NetName=left Pin=1-31
+Added Pin To Net: NetName=left Pin=su-03t-17
+Added Net: Name=left
+Added Pin To Net: NetName=NetM1_1 Pin=M1-1
+Added Pin To Net: NetName=NetM1_1 Pin=su-03t-9
+Added Net: Name=NetM1_1
+Added Pin To Net: NetName=NetM1_2 Pin=M1-2
+Added Pin To Net: NetName=NetM1_2 Pin=su-03t-8
+Added Net: Name=NetM1_2
+Added Pin To Net: NetName=NetM2_1 Pin=M2-1
+Added Pin To Net: NetName=NetM2_1 Pin=su-03t-11
+Added Net: Name=NetM2_1
+Added Pin To Net: NetName=NetM2_2 Pin=M2-2
+Added Pin To Net: NetName=NetM2_2 Pin=su-03t-10
+Added Net: Name=NetM2_2
+Added Pin To Net: NetName=right Pin=1-33
+Added Pin To Net: NetName=right Pin=su-03t-18
+Added Net: Name=right
+Added Pin To Net: NetName=up Pin=1-27
+Added Pin To Net: NetName=up Pin=su-03t-15
+Added Net: Name=up
+Added Pin To Net: NetName=VCC Pin=1-2
+Added Pin To Net: NetName=VCC Pin=1-4
+Added Pin To Net: NetName=VCC Pin=su-03t-1
+Added Net: Name=VCC
+Added Class: Name=sparkroad_sheet1
+Added Room: Name=sparkroad_sheet1

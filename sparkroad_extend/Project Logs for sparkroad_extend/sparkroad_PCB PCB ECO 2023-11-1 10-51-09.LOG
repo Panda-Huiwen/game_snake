@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=up Pin=1-27
+Removed Pin From Net: NetName=down Pin=1-29
+Removed Pin From Net: NetName=left Pin=1-31
+Removed Pin From Net: NetName=right Pin=1-33
+Added Pin To Net: NetName=right Pin=1-27
+Added Pin To Net: NetName=left Pin=1-29
+Added Pin To Net: NetName=down Pin=1-31
+Added Pin To Net: NetName=up Pin=1-33
+Added Room: Name=sparkroad_sheet1

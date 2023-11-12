@@ -1,0 +1,84 @@
+Dependencies for Project 'code', Target 'Target 1': (DO NOT MODIFY !)
+F (..\keil_src\code_def.h)(0x65439368)()
+F (..\keil_src\delay.h)(0x6433B62F)()
+F (..\keil_src\font.h)(0x654635DF)()
+F (..\keil_src\hongwai.h)(0x6433B597)()
+F (..\keil_src\keyboard.h)(0x642BE565)()
+F (..\keil_src\seg.h)(0x642CDEE3)()
+F (..\keil_src\snake.h)(0x654631D5)()
+F (..\keil_src\systick.h)(0x6433B5C4)()
+F (..\keil_src\vga.h)(0x6433B434)()
+F (..\keil_src\timer.h)(0x6430C549)()
+F (..\keil_src\lcd.h)(0x6433C7F7)()
+F (..\keil_src\music.h)(0x64355117)()
+F (..\keil_src\code_def.c)(0x642821B6)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include-ID:\keil\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DCMSDK_CM0-o .\code_def_1.o --omf_browse .\code_def_1.crf --depend .\code_def_1.d)
+I (..\keil_src\code_def.h)(0x65439368)
+I (D:\keil\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+F (..\keil_src\delay.c)(0x64326DA8)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include-ID:\keil\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DCMSDK_CM0-o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
+I (..\keil_src\delay.h)(0x6433B62F)
+I (D:\keil\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\keil_src\systick.h)(0x6433B5C4)
+I (..\keil_src\code_def.h)(0x65439368)
+I (..\keil_src\timer.h)(0x6430C549)
+F (..\keil_src\hongwai.c)(0x642A8B2E)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include-ID:\keil\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DCMSDK_CM0-o .\hongwai.o --omf_browse .\hongwai.crf --depend .\hongwai.d)
+I (..\keil_src\hongwai.h)(0x6433B597)
+I (..\keil_src\code_def.h)(0x65439368)
+I (D:\keil\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\keil_src\snake.h)(0x654631D5)
+F (..\keil_src\keyboard.c)(0x642C0FDC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include-ID:\keil\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DCMSDK_CM0-o .\keyboard.o --omf_browse .\keyboard.crf --depend .\keyboard.d)
+I (..\keil_src\keyboard.h)(0x642BE565)
+I (..\keil_src\code_def.h)(0x65439368)
+I (D:\keil\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+F (..\keil_src\main.c)(0x6546344C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include-ID:\keil\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DCMSDK_CM0-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (..\keil_src\code_def.h)(0x65439368)
+I (D:\keil\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\keil_src\delay.h)(0x6433B62F)
+I (..\keil_src\systick.h)(0x6433B5C4)
+I (..\keil_src\vga.h)(0x6433B434)
+I (..\keil_src\hongwai.h)(0x6433B597)
+I (..\keil_src\snake.h)(0x654631D5)
+I (..\keil_src\keyboard.h)(0x642BE565)
+I (..\keil_src\seg.h)(0x642CDEE3)
+I (..\keil_src\timer.h)(0x6430C549)
+I (..\keil_src\lcd.h)(0x6433C7F7)
+I (..\keil_src\music.h)(0x64355117)
+F (..\keil_src\seg.c)(0x642C2F1F)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include-ID:\keil\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DCMSDK_CM0-o .\seg.o --omf_browse .\seg.crf --depend .\seg.d)
+I (..\keil_src\seg.h)(0x642CDEE3)
+I (..\keil_src\code_def.h)(0x65439368)
+I (D:\keil\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (D:\keil\Keil\ARM\ARMCC\include\string.h)(0x588B8344)
+F (..\keil_src\snake.c)(0x6546354D)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include-ID:\keil\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DCMSDK_CM0-o .\snake.o --omf_browse .\snake.crf --depend .\snake.d)
+I (..\keil_src\snake.h)(0x654631D5)
+I (..\keil_src\code_def.h)(0x65439368)
+I (D:\keil\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\keil_src\vga.h)(0x6433B434)
+I (..\keil_src\seg.h)(0x642CDEE3)
+I (D:\keil\Keil\ARM\ARMCC\include\stdlib.h)(0x588B8344)
+I (..\keil_src\delay.h)(0x6433B62F)
+I (..\keil_src\timer.h)(0x6430C549)
+F (..\keil_src\systick.c)(0x6433B658)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include-ID:\keil\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DCMSDK_CM0-o .\systick.o --omf_browse .\systick.crf --depend .\systick.d)
+I (..\keil_src\code_def.h)(0x65439368)
+I (D:\keil\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\keil_src\delay.h)(0x6433B62F)
+F (..\keil_src\vga.c)(0x6430DEF7)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include-ID:\keil\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DCMSDK_CM0-o .\vga.o --omf_browse .\vga.crf --depend .\vga.d)
+I (..\keil_src\vga.h)(0x6433B434)
+I (..\keil_src\code_def.h)(0x65439368)
+I (D:\keil\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\keil_src\font.h)(0x654635DF)
+F (..\keil_src\timer.c)(0x6433B08B)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include-ID:\keil\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DCMSDK_CM0-o .\timer.o --omf_browse .\timer.crf --depend .\timer.d)
+I (..\keil_src\timer.h)(0x6430C549)
+I (..\keil_src\code_def.h)(0x65439368)
+I (D:\keil\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+F (..\keil_src\lcd.c)(0x6433C866)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include-ID:\keil\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DCMSDK_CM0-o .\lcd.o --omf_browse .\lcd.crf --depend .\lcd.d)
+I (..\keil_src\lcd.h)(0x6433C7F7)
+I (..\keil_src\code_def.h)(0x65439368)
+I (D:\keil\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (D:\keil\Keil\ARM\ARMCC\include\stdlib.h)(0x588B8344)
+I (D:\keil\Keil\ARM\ARMCC\include\stdio.h)(0x588B8344)
+I (..\keil_src\delay.h)(0x6433B62F)
+F (..\keil_src\music.c)(0x6543AC21)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include-ID:\keil\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DCMSDK_CM0-o .\music.o --omf_browse .\music.crf --depend .\music.d)
+I (..\keil_src\music.h)(0x64355117)
+I (..\keil_src\code_def.h)(0x65439368)
+I (D:\keil\Keil\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (..\keil_src\snake.h)(0x654631D5)
+F (.\startup_CMSDK_CM0.s)(0x65439141)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_Target_1-ID:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include-ID:\keil\Keil\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "CMSDK_CM0 SETA 1"--list .\listings\startup_cmsdk_cm0.lst --xref -o .\startup_cmsdk_cm0.o --depend .\startup_cmsdk_cm0.d)

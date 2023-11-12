@@ -1,0 +1,211 @@
+F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/vga_image.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/vga_image.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module vga_image
+
+Top level modules:
+	vga_image
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/vga_console.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/vga_console.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module vga_console
+
+Top level modules:
+	vga_console
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_TIMER.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_TIMER.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module AHBlite_TIMER
+
+Top level modules:
+	AHBlite_TIMER
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/Block_RAM.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/Block_RAM.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Block_RAM
+
+Top level modules:
+	Block_RAM
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_Block_RAM.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_Block_RAM.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module AHBlite_Block_RAM
+
+Top level modules:
+	AHBlite_Block_RAM
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/seg/AHB_SEG4.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/seg/AHB_SEG4.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module AHB_SEG4
+
+Top level modules:
+	AHB_SEG4
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/tb/CortexM0_SoC_vlg_tst.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/tb/CortexM0_SoC_vlg_tst.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module CortexM0_SoC_vlg_tst
+
+Top level modules:
+	CortexM0_SoC_vlg_tst
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/font_rom.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/font_rom.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module font_rom
+
+Top level modules:
+	font_rom
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_Interconnect.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_Interconnect.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module AHBlite_Interconnect
+
+Top level modules:
+	AHBlite_Interconnect
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_SlaveMUX.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_SlaveMUX.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module AHBlite_SlaveMUX
+
+Top level modules:
+	AHBlite_SlaveMUX
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/keyboard_scan.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/keyboard_scan.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module keyboard_scan
+
+Top level modules:
+	keyboard_scan
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/hongwai.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/hongwai.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module hongwai
+
+Top level modules:
+	hongwai
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_HongWai.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_HongWai.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module AHBlite_HongWai
+
+Top level modules:
+	AHBlite_HongWai
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/cortexm0ds_logic.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/cortexm0ds_logic.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module cortexm0ds_logic
+
+Top level modules:
+	cortexm0ds_logic
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/keyboard_reg.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/keyboard_reg.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module keyboard_reg
+
+Top level modules:
+	keyboard_reg
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/hongwai_top.v {1 {vlog -work work -vopt -stats=none {F:\FPGAxiangmu\TD2023\game_tanchishe_4_7\rtl\hongwai_top.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module hongwai_top
+
+Top level modules:
+	hongwai_top
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBVGA.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBVGA.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module AHBVGA
+
+Top level modules:
+	AHBVGA
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/keyboard.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/keyboard.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Keyboard
+
+Top level modules:
+	Keyboard
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/prescaler.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/prescaler.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module prescaler
+
+Top level modules:
+	prescaler
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/vga_sync.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/vga_sync.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module vga_sync
+
+Top level modules:
+	vga_sync
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_WaterLight.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_WaterLight.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module AHBlite_WaterLight
+
+Top level modules:
+	AHBlite_WaterLight
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHB_keyboard.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHB_keyboard.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module AHBlite_keyboard
+
+Top level modules:
+	AHBlite_keyboard
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/WaterLight.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/WaterLight.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module WaterLight
+
+Top level modules:
+	WaterLight
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/seg/ahb_seg4_interface.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/seg/ahb_seg4_interface.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ahb_seg4_interface
+
+Top level modules:
+	ahb_seg4_interface
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/seg/SEG4_ScanDisplay.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/seg/SEG4_ScanDisplay.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module SEG4_ScanDisplay
+
+Top level modules:
+	SEG4_ScanDisplay
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/dual_port_ram_sync.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/dual_port_ram_sync.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dual_port_ram_sync
+
+Top level modules:
+	dual_port_ram_sync
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/CortexM0_SoC.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/CortexM0_SoC.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module CortexM0_SoC
+
+Top level modules:
+	CortexM0_SoC
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/clk_frep.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/clk_frep.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module clk_frep
+
+Top level modules:
+	clk_frep
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_Decoder.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/AHBlite_Decoder.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module AHBlite_Decoder
+
+Top level modules:
+	AHBlite_Decoder
+
+} {} {}} F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/keyboard_filter.v {1 {vlog -work work -vopt -stats=none F:/FPGAxiangmu/TD2023/game_tanchishe_4_7/rtl/keyboard_filter.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module keyboard_filter
+
+Top level modules:
+	keyboard_filter
+
+} {} {}}

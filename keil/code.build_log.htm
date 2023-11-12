@@ -1,0 +1,74 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.24.2.0
+Copyright (C) 2017 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: a Zz, a, LIC=YA39H-WV2RW-63SMB-25YTK-IBFKC-DTEJS
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.24.1
+Toolchain Path:  D:\keil\Keil\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 5 (build 528)
+Assembler:       Armasm.exe V5.06 update 5 (build 528)
+Linker/Locator:  ArmLink.exe V5.06 update 5 (build 528)
+Library Manager: ArmAr.exe V5.06 update 5 (build 528)
+Hex Converter:   FromElf.exe V5.06 update 5 (build 528)
+CPU DLL:         SARMCM3.DLL V5.24.1
+Dialog DLL:      DARMCM1.DLL V1.18.0.0
+Target DLL:      CMSIS_AGDI.dll V1.28.3.0
+Dialog DLL:      TARMCM1.DLL V1.13.0.0
+ 
+<h2>Project:</h2>
+D:\IC_in_com\fish_game\DOCMENT\game_snake\game_snake_1\game_snake\keil\code.uvprojx
+Project File Date:  10/23/2023
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 5 (build 528)', folder: 'D:\keil\Keil\ARM\ARMCC\Bin'
+Rebuild target 'Target 1'
+assembling startup_CMSDK_CM0.s...
+compiling delay.c...
+compiling code_def.c...
+compiling hongwai.c...
+compiling keyboard.c...
+compiling timer.c...
+compiling main.c...
+compiling systick.c...
+compiling music.c...
+compiling seg.c...
+compiling vga.c...
+..\keil_src\vga.c(191): warning:  #177-D: variable "i"  was declared but never referenced
+  	int i,j;
+..\keil_src\vga.c: 1 warning, 0 errors
+compiling snake.c...
+..\keil_src\snake.c(570): warning:  #68-D: integer conversion resulted in a change of sign
+  		col = ( 
+ORDER_LIMIT_RIGHT - 
+ORDER_LIMIT_LEFT - 1 - 9*12 )/2 + 9;
+..\keil_src\snake.c: 1 warning, 0 errors
+compiling lcd.c...
+linking...
+.\code.axf: Warning: L6305W: Image does not have an entry point. (Not specified or not set due to multiple choices.)
+Program Size: Code=5692 RO-data=1256 RW-data=44 ZI-data=2436  
+Finished: 0 information, 1 warning and 0 error messages.
+After Build - User command #1: fromelf -cvf .\code.axf --vhx --32x1 -o code.hex
+After Build - User command #2: fromelf -cvf .\code.axf -o code.txt
+".\code.axf" - 0 Error(s), 3 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.V2M-MPS2_CMx_BSP.1.7.1.pack
+                Keil.V2M-MPS2_CMx_BSP.1.7.1
+                ARM V2M-MPS2 Board Support PACK for Cortex-M System Design Kit Devices
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_Target_1
+  D:\keil\Keil\ARM\PACK\Keil\V2M-MPS2_CMx_BSP\1.7.1\Device\CMSDK_CM0\Include
+
+<h2>Collection of Component Files used:</h2>
+Build Time Elapsed:  00:00:01
+</pre>
+</body>
+</html>

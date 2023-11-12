@@ -1,0 +1,94 @@
+set_pin_assignment	{ LED[0] }	{ LOCATION = M3;  }
+set_pin_assignment	{ LED[1] }	{ LOCATION = M4;  }
+set_pin_assignment	{ LED[2] }	{ LOCATION = N3;  }
+set_pin_assignment	{ LED[3] }	{ LOCATION = N4;  }
+set_pin_assignment	{ LED[4] }	{ LOCATION = M5;  }
+set_pin_assignment	{ LED[5] }	{ LOCATION = P4;  }
+set_pin_assignment	{ LED[6] }	{ LOCATION = N5;  }
+set_pin_assignment	{ LED[7] }	{ LOCATION = P5;  }
+#set_pin_assignment	{ RSTn }	{ LOCATION = A9;  }
+set_pin_assignment	{ SWCLK }	{ LOCATION = F9;  }
+set_pin_assignment	{ SWDIO }	{ LOCATION = H11;  }
+#set_pin_assignment	{ clk_in }	{ LOCATION = R7; IOSTANDARD = LVCMOS33; }
+#set_pin_assignment	{ clk_25 }	{ LOCATION = R7; IOSTANDARD = LVCMOS33; }
+#set_pin_assignment	{ rgb[0] }	{ LOCATION = D1; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[1] }	{ LOCATION = M5; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[2] }	{ LOCATION = E1; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[3] }	{ LOCATION = E2; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[4] }	{ LOCATION = F1; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[5] }	{ LOCATION = F2; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[6] }	{ LOCATION = H2; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[7] }	{ LOCATION = G1; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[8] }	{ LOCATION = J1; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[9] }	{ LOCATION = H1; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[10] }	{ LOCATION = K2; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ hsync }	{ LOCATION = M2; IOSTANDARD = LVCMOS33; }
+#set_pin_assignment	{ rgb[11] }	{ LOCATION = K1; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[12] }	{ LOCATION = L5; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[13] }	{ LOCATION = L1; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[14] }	{ LOCATION = M4; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ rgb[15] }	{ LOCATION = N3; IOSTANDARD = LVCMOS33; SLEWRATE = FAST; }
+#set_pin_assignment	{ vsync }	{ LOCATION = M3; IOSTANDARD = LVCMOS33; }
+#set_pin_assignment	{ hongwai_in }	{ LOCATION = P12; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ hongwai_in }	{ LOCATION = A10; IOSTANDARD = LVCMOS33;}
+#set_pin_assignment	{ col[0] }	{ LOCATION = E11; IOSTANDARD = LVCMOS33; }
+#set_pin_assignment	{ col[1] }	{ LOCATION = D11; IOSTANDARD = LVCMOS33; }
+#set_pin_assignment	{ col[2] }	{ LOCATION = C11; IOSTANDARD = LVCMOS33; }
+#set_pin_assignment	{ col[3] }	{ LOCATION = F10; IOSTANDARD = LVCMOS33; }
+#set_pin_assignment	{ row[0] }	{ LOCATION = E10; IOSTANDARD = LVCMOS33; }
+#set_pin_assignment	{ row[1] }	{ LOCATION = C10; IOSTANDARD = LVCMOS33; }
+#set_pin_assignment	{ row[2] }	{ LOCATION = F9; IOSTANDARD = LVCMOS33; }
+#set_pin_assignment	{ row[3] }	{ LOCATION = D9; IOSTANDARD = LVCMOS33; }
+set_pin_assignment  { smg_bit_sel[0] }  { LOCATION = B1;  }
+set_pin_assignment  { smg_bit_sel[1] }  { LOCATION = C3;  }
+set_pin_assignment  { smg_bit_sel[2] }  { LOCATION = C2;  }
+set_pin_assignment  { smg_bit_sel[3] }  { LOCATION = F3;  }
+set_pin_assignment  { smg_seg_sel[0] }  { LOCATION = E3;  }
+set_pin_assignment  { smg_seg_sel[1] }  { LOCATION = B3;  }
+set_pin_assignment  { smg_seg_sel[2] }  { LOCATION = F4;  }
+set_pin_assignment  { smg_seg_sel[3] }  { LOCATION = E4;  }
+set_pin_assignment  { smg_seg_sel[4] }  { LOCATION = F5;  }
+set_pin_assignment  { smg_seg_sel[5] }  { LOCATION = D3;  }
+set_pin_assignment  { smg_seg_sel[6] }  { LOCATION = B2;  }
+set_pin_assignment  { smg_seg_sel[7] }  { LOCATION = A2;  }
+
+
+####
+set_pin_assignment {clk_in } {location = K14 ;} 
+set_pin_assignment {RSTn  } {location = G11  ;}
+#### VGA Interport
+set_pin_assignment {clk_25  } {location = H2  ;}
+set_pin_assignment {hsync  } {location = J3 ;}
+set_pin_assignment {vsync  } {location = J4  ;}
+
+set_pin_assignment {rgb[0]  } {location = L5 ;}
+set_pin_assignment {rgb[1]  } {location = L3 ;}
+set_pin_assignment {rgb[2]  } {location = M2  ;}
+set_pin_assignment {rgb[3]  } {location = M1  ;}
+set_pin_assignment {rgb[4]  } {location = L4  ;}
+set_pin_assignment {rgb[5]  } {location = K5 ;}
+set_pin_assignment {rgb[6]  } {location = K3  ;}
+set_pin_assignment {rgb[7]  } {location = K6  ;}
+
+set_pin_assignment {rgb[8]  } {location = L1 ;}
+set_pin_assignment {rgb[9]  } {location = K2 ;}
+set_pin_assignment {rgb[10]  } {location = K1  ;}
+set_pin_assignment {rgb[11]  } {location = J1  ;}
+set_pin_assignment {rgb[12]  } {location = H3  ;}
+set_pin_assignment {rgb[13]  } {location = J6 ;}
+set_pin_assignment {rgb[14]  } {location = H1  ;}
+set_pin_assignment {rgb[15]  } {location = H5  ;}
+
+set_pin_assignment {rgb[16]  } {location = G1 ;}
+set_pin_assignment {rgb[17]  } {location = F1 ;}
+set_pin_assignment {rgb[18]  } {location = F2  ;}
+set_pin_assignment {rgb[19]  } {location = E1  ;}
+set_pin_assignment {rgb[20]  } {location = G3  ;}
+set_pin_assignment {rgb[21]  } {location = E2 ;}
+set_pin_assignment {rgb[22]  } {location = D1  ;}
+set_pin_assignment {rgb[23]  } {location = C1  ;}
+
+set_pin_assignment {ioctrl_1  } {location = C5  ;}
+set_pin_assignment {ioctrl_2 } {location = C7  ;}
+set_pin_assignment {ioctrl_3  } {location = C9  ;}
+set_pin_assignment {ioctrl_4  } {location = A11  ;}
